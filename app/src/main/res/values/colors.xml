@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_toolbar_color">#1E88E5</color>
+    <!-- Add these Material Design colors -->
+    <color name="surface">#FFFBFE</color>
+    <color name="surface_variant">#FFE7E0EC</color>
+</resources>

@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for night mode - Use NoActionBar variant -->
+    <style name="Base.Theme.NoteTakingApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/my_toolbar_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Dark theme colors -->
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorOnSurfaceVariant">@color/white</item>
+    </style>
+</resources>

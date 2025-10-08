@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme - Use NoActionBar variant -->
+    <style name="Base.Theme.NoteTakingApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/my_toolbar_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Add these for better Material Design support -->
+        <item name="colorOnSurface">@color/black</item>
+        <item name="colorOnSurfaceVariant">@color/black</item>
+    </style>
+
+    <style name="Theme.NoteTakingApp" parent="Base.Theme.NoteTakingApp" />
+</resources>
